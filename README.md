@@ -33,8 +33,3 @@ java ClientGUI
 ## Estrutura dos Arquivos
 - `Server.java`: Contém a implementação do lado do servidor do jogo de roleta de cassino. O servidor gerencia a lógica do jogo e se comunica com o cliente.
 - `ClientGUI.java`: Contém a implementação do lado do cliente com uma interface gráfica (GUI) que permite aos usuários interagir com o jogo.
-
-## Autores
-- Lucca Pinto
-- Pedro Palazzi
-
